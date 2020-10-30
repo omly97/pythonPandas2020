@@ -1,0 +1,9 @@
+
+1- Extraire le fichier EXcel
+Cree une base avec une table appelee listepays
+remplir la table avec le contenu du fichier
+
+2- Lire le fichier avec pandas et ajouter le champs "densite"
+
+NOTE: Lecture fichier CSV avec pandas
+>>> pandas.read_csv("chemin/du/fichier", delimiter=";")
